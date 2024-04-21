@@ -1,4 +1,4 @@
-# SQL-JOINS-DUPS
+# SQL-JOINS-DUPS :call_me_hand:
 Executing join operations considering duplicate row conditions
 
 ## TABLE01
@@ -9,7 +9,7 @@ Executing join operations considering duplicate row conditions
 
 ![image](https://github.com/AkshayABK/SQL-JOINS-DUPS/assets/92500657/f9add9bb-e92e-4ffa-840b-660f42641d0a)
 
-1. CROSS JOIN :shipit:
+1. CROSS JOIN 
  
 ![Cross Join](https://github.com/AkshayABK/SQL-JOINS-DUPS/assets/92500657/c195f78c-ab04-4527-9dae-a6a6c6c207ee)
 
