@@ -23,6 +23,7 @@ Executing join operations considering duplicate row conditions
 
 4. RIGHT JOIN
    
-![Right Join](https://github.com/AkshayABK/SQL-JOINS-DUPS/assets/92500657/6c5c9e6c-8f26-4256-bf01-c57b9384e332 | width=100) 
+![Right Join](https://github.com/AkshayABK/SQL-JOINS-DUPS/assets/92500657/6c5c9e6c-8f26-4256-bf01-c57b9384e332) 
 
+<img src="https://github.com/AkshayABK/SQL-JOINS-DUPS/assets/92500657/6c5c9e6c-8f26-4256-bf01-c57b9384e332" width="100" height="100">
 
